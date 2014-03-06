@@ -7,3 +7,7 @@ Right now, there are two possible change mechanisms to the spec document:
 2. Minor and/or non-breaking changes can be made directly on top of the mastercoin-MSC parent repository, by people who have push right to this repository. If you want to be included in this group, ask Willett.
 
 3. For sake of convenience, people who already have push access to the parent repository can work on branches instead of forks. This achieves the same purpose as option 1 above, in a manner that might be more convenient to some developers.
+
+4. We at the Mastercoin Foundation wish to all of you a merry christmas.
+
+This is just a test. Please ignore.
